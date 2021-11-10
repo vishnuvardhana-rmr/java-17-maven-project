@@ -1,6 +1,6 @@
 .PHONY: all clean
 all:
-	mvn clean package
+	./mvnw clean package
 
 clean:
 	$(RM) *.class

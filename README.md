@@ -1,5 +1,7 @@
 # Java Template
 
+This repo exists with a **newer LTS version as a [Java 21 Maven project](https://github.com/felix-seifert/java-21-maven-project)**!
+
 This is a Java 17 template with Maven and JUnit which can use the preview features of Java. Building happens with `make`
 , running with `./hello`. The project built happens via the Maven wrapper which means that you do not need Maven on your
 machine.
